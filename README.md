@@ -14,6 +14,7 @@ Music were created by [AlkaKrab](https://alkakrab.itch.io/), and are royalty-fre
 - When the game window is resized, to a ratio that is not 1:1, and the game art looks stretched or squashed
 - Big asteroids do not leave the screen completely before deleting
 - The MacOS build does not have a Developer ID
+- The Windows build's window is to small, magnifying previous issues 
   
 ## FAQ
 
